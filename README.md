@@ -18,4 +18,7 @@ https://d1.awsstatic.com/Projects/provision-cloud-desktops/Provision%20Desktops%
    - Install required softwares
    - Create image
    - Create bundle for each user
+
+https://user-images.githubusercontent.com/16419246/121849020-0b265180-cd15-11eb-8b2f-9355b6719481.jpg
+
 \\\
